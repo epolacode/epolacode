@@ -1,40 +1,21 @@
-# 👋 Hey, I'm Enrique
+# Hey! 👋  
+I'm Enrique — a full-stack developer who enjoys building things that actually work.
 
-**Full-Stack Developer — React, Node.js & Java**  
-I build web applications end-to-end: clean interfaces, secure APIs, and solid database layers.  
-Right now I'm focused on improving developer experience, performance, and building scalable tools.
+When I run into a problem, I dig until I find the best way to solve it.  
+I don’t over-explore — I focus on getting things done and moving forward.
 
----
+My main stack these days is **React**, **JavaScript**, **Node.js**, and **PostgreSQL**.  
+I care about clean UIs, secure APIs, and making apps feel smooth and reliable.
 
-## 🚀 What I Do
-- Build modern frontends with **React, TypeScript, React Router, MUI**
-- Develop secure APIs with **Node.js/Express** and **Java (Spring Boot)**
-- Design and manage **PostgreSQL** databases
-- Work with **CI/CD, servers, Docker and automation**
-- Create software for **research, data workflows and institutional platforms**
+Here you’ll find a mix of personal projects, experiments, and stuff I build to simplify real-world workflows.  
+Most of my day-to-day code lives in private repos at work, so I'm working on bringing more **personal** projects here.
 
----
+### A few things about me:
+- I code with a straightforward mindset: understand the issue → fix it → ship it.  
+- I often break things on purpose just to understand how they behave.  
+- I do CrossFit almost every day — it keeps me sane while debugging.  
+- I like building tools that help people work faster and cleaner.  
+- I’m pushing myself to create and publish more personal, non-work projects.
 
-## 🛠️ Tech I Use
-**Frontend:** React, TypeScript, MUI, Vite  
-**Backend:** Node.js, Express, Java, Spring Boot, PHP  
-**Databases:** PostgreSQL, MySQL  
-**Other:** Docker, Linux, Git, APIs, security practices
-
----
-
-## 📌 Current Goals
-- Sharpen my backend architecture skills  
-- Build cleaner, faster developer tools  
-- Contribute to open-source when possible  
-- Keep learning & shipping projects that matter  
-
----
-
-## 📫 Contact
-You can reach me at: **your_email_here**
-
----
-
-Thanks for stopping by 👨‍💻  
-Always building, always learning.
+If you ever want to collaborate or just talk dev stuff, I'm around.  
+Always building, always improving. 🚀
