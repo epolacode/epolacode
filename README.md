@@ -17,5 +17,5 @@ Most of my day-to-day code lives in private repos at work, so I'm working on bri
 - I like building tools that help people work faster and cleaner.  
 - I’m pushing myself to create and publish more personal, non-work projects.
 
-If you ever want to collaborate or just talk dev stuff, I'm around.  
+I'm around.  
 Always building, always improving. 🚀
